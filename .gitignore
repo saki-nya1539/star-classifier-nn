@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# 中間生成物(再実行すれば復元可能)
+results/*.npy
+results/*.npz
+results/*.txt
